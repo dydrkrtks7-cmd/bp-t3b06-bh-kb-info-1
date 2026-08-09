@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hapjeong-coin-karaoke-note.go-apgujeong-nrb.xyz/sitemap.xml
+Sitemap: https://hapjeong-coin-karaoke-note.go-apgujeong-nrb.xyz/sitemap-pages.xml
